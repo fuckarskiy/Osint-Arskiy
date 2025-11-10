@@ -1,0 +1,12 @@
+{
+  "name": "osint-panel",
+  "version": "1.0.0",
+  "description": "OSINT Panel - Node.js single-file version",
+  "main": "osint.js",
+  "scripts": {
+    "start": "node osint.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
